@@ -26,11 +26,13 @@ Klicken sie jetzt auf "Install now" und warten sie bis die Installation abgeschl
 
 Drücken sie nun auf "Close"
 
+![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact1.png?raw=true)
+
 Sollten sie Firefox nicht bereits installiert haben sollte Firefox' Installer in Kürze erscheinen
 
 Drücken sie auf Installieren und warten sie bis die Installation abgeschlossen ist
 
-![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact1.png?raw=true)
+![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact2.png?raw=true)
 
 Firefox' Installer sollte sich nun geschlossen haben und mit ihm der ManchingerMaschine Installer
 
@@ -38,15 +40,13 @@ Starten sie nun noch einmal den Installer um die Abhängigkeiten zu installieren
 
 Lassen sie sich hierbei nicht von den Fehlermeldungen irritieren, diese sind meistens völlig normal
 
-Warten sie geduldig bis die Installation fertig ist
+![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact3.png?raw=true)
 
-![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact2.png?raw=true)
+Warten sie geduldig bis die Installation fertig ist
 
 ## Den Bot benutzen
 
 Als erstes sollten sie Firefox öffnen und sollten sie eine Meldung bekommen ob sie Firefox als Hauptbrowser festlegen wollen, haken sie "Diese Nachricht nichtmehr anzeigen" an und klicken sie auf "Nicht Jetzt"
-
-![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact3.png?raw=true)
 
 Sie können Firefox jetzt schließen und sollten auch jedes geöffnete Firefox Fenster schließen
 
