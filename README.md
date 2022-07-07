@@ -18,7 +18,7 @@ Die Installer.exe aus den Releases herunterladen und starten
 
 Nach einer Zeit sollte falls ihr Python nicht bereits installiert habt, sich ein Fenster öffnen wie auf dem Bild gezeigt
 
-![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact0.jpg?raw=true)
+![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact0.png?raw=true)
 
 Haken sie wie auf dem Bild gezeigt den Text "Add Python 3.1 to PATH" ab
 
@@ -30,7 +30,7 @@ Sollten sie Firefox nicht bereits installiert haben sollte Firefox' Installer in
 
 Drücken sie auf Installieren und warten sie bis die Installation abgeschlossen ist
 
-![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact1.jpg?raw=true)
+![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact1.png?raw=true)
 
 Firefox' Installer sollte sich nun geschlossen haben und mit ihm der ManchingerMaschine Installer
 
@@ -40,13 +40,13 @@ Lassen sie sich hierbei nicht von den Fehlermeldungen irritieren, diese sind mei
 
 Warten sie geduldig bis die Installation fertig ist
 
-![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact2.jpg?raw=true)
+![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact2.png?raw=true)
 
 ## Den Bot benutzen
 
 Als erstes sollten sie Firefox öffnen und sollten sie eine Meldung bekommen ob sie Firefox als Hauptbrowser festlegen wollen, haken sie "Diese Nachricht nichtmehr anzeigen" an und klicken sie auf "Nicht Jetzt"
 
-![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact3.jpg?raw=true)
+![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact3.png?raw=true)
 
 Sie können Firefox jetzt schließen und sollten auch jedes geöffnete Firefox Fenster schließen
 
