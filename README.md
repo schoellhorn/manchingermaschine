@@ -67,7 +67,7 @@ Der Bot wurde innerhalb von wenigen Stunde programmiert weil Antenne Bayern's Ak
 
 ## Mehr oder weniger wichtige Kleinigkeiten
 - Sie können den Bot schließen in dem sie "187" in die Zwischenablage kopieren (kein Scherz)
-- Treten sie auch gerne dem Subreddit [r/manching](https://www.reddit.com/r/manching)
+- Treten sie auch gerne dem Subreddit [r/manching](https://www.reddit.com/r/manching) bei
 - Im Code des Bots (manchingermaschine.py) ist eine Variable namens "reboot", wenn sie diese auf 0 stellen, wird sich der Bot anstatt neuzustarten, abschalten
 - Wenn sie in die erste Zeile des Programmes (manchingermaschine.py) die Phrase "#haxor" hinzufügen (wie auf dem Bild gezeigt), so wird das Programm in einem anderen Modus starten, dies empfehlt sich jedoch nur falls sie Startschwierigkeiten haben, der Modus funktioniert jedoch selbst bei mir nicht deswegen ist er eher unnötig
 
