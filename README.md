@@ -15,43 +15,52 @@ Und hier kommt auch einer der größten Probleme, obwohl ich einige Maßnahmen e
 
 ## Den Bot installieren
 Die Installer.exe aus den Releases herunterladen und starten
+
 Nach einer Zeit sollte falls ihr Python nicht bereits installiert habt, sich ein Fenster öffnen wie auf dem Bild gezeigt
 
 ![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact0.jpg?raw=true)
 
-Haken sie wie gezeigt den Text "Add Python 3.1 to PATH" ab
-Klicken sie jetzt auf Install now und warten sie bis die Installation abgeschlossen hat
-Drücken sie nun auf Close
-Nun sollte Firefox auftauchen außer wenn sie den Browser schon installiert haben
+Haken sie wie auf dem Bild gezeigt den Text "Add Python 3.1 to PATH" ab
+
+Klicken sie jetzt auf "Install now" und warten sie bis die Installation abgeschlossen hat
+
+Drücken sie nun auf "Close"
+
+Sollten sie Firefox nicht bereits installiert haben sollte Firefox' Installer in Kürze erscheinen
+
 Drücken sie auf Installieren und warten sie bis die Installation abgeschlossen ist
 
 ![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact1.jpg?raw=true)
 
-Das Programm sollte sich nun geschlossen haben
-Starten sie noch einmal den Installer um die Abhängigkeiten zu installieren
+Firefox' Installer sollte sich nun geschlossen haben und mit ihm der ManchingerMaschine Installer
+
+Starten sie nun noch einmal den Installer um die Abhängigkeiten zu installieren
+
 Lassen sie sich hierbei nicht von den Fehlermeldungen irritieren, diese sind meistens völlig normal
+
 Warten sie geduldig bis die Installation fertig ist
 
 ![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact2.jpg?raw=true)
 
-Den Bot benutzen
-Erstmal sollten sie Firefox öffnen und falls sie eine Meldung bekommen ob
-sie Firefox als Hauptbrowser festlegen wollen haken sie Diese Nachricht nichtmehr
-anzeigen an und klicken sie auf Nicht Jetzt
+## Den Bot benutzen
+
+Als erstes sollten sie Firefox öffnen und sollten sie eine Meldung bekommen ob sie Firefox als Hauptbrowser festlegen wollen, haken sie "Diese Nachricht nichtmehr anzeigen" an und klicken sie auf "Nicht Jetzt"
 
 ![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact3.jpg?raw=true)
 
 Sie können Firefox jetzt schließen und sollten auch jedes geöffnete Firefox Fenster schließen
 
 Auf ihrem Desktop sollten 4 Neue Dateien sein: manchingermaschine.py, StartBot.exe, vote.png, second.png und third.png
-Bitte löschen oder verschieben sie keine dieser Dateien da sie essentiell für die Funktionalität des Bots sind.
-Starten sie den Bot nun mit dem Program StartBot.exe und nehmen sie die Hände von der Maus/Tastatur, denn ab jetzt
-übernimmt der Bot.
-Sollten sie immer noch Probleme haben könnte es helfen den Installer immer wieder zu starten, falls bestimmte 
-Abhängigkeiten nicht ordnungsgemäß installiert wurden
 
-Wichtige Sachen
+Bitte löschen oder verschieben sie keine dieser Dateien da sie essentiell für die Funktionalität des Bots sind.
+
+Starten sie den Bot nun mit dem Program StartBot.exe und nehmen sie die Hände von der Maus/Tastatur, denn ab jetzt "übernimmt" der Bot.
+
+Sollten sie immer noch Probleme haben könnte es helfen den Installer immer wieder zu starten, falls bestimmte Abhängigkeiten nicht ordnungsgemäß installiert wurden
+
+## Wichtige Sachen
 Der Bot ist auf eine bestimmte Geschwindigkeit ausgelegt, sollte ihr Computer oder ihr Internet zu langsam sein
 könnte der Bot nicht funktionieren
 Es könnte auch sein das der Bot manche Anläufe nicht auf Anhieb schafft, bei den meisten Fehlern startet sich
 der Bot jedoch automatisch neu wodurch keine Interaktion mit dem Nutzer nötig ist
+Der Bot wurde innerhalb von wenigen Stunde programmiert weil Antenne Bayern's Aktion nurnoch wenige Tage läuft, ich habe probiert den Bot so stabil und sicher wie möglich zu machen kann aber wegen dem Zeitdruck nicht garantieren, dass der Bot fehlerfrei läuft -> Sie können davon ausgehen das der Bot manchmal mehrere Anläufe braucht oder es bei ihnen garnicht funktioniert! Es könnte z.B. auch dazu kommen das der Bot frei im Internet surft oder ihren PC anderweitig ungewollt bedient, wobei ich einige Sicherheitssysteme eingebaut haben welche das verhinden sollten könnte dieser Fall trotzdem eintreten und ich möchte nocheinmal darauf hinweisen dass sie den Bot auf eigenem Risiko benutzen
