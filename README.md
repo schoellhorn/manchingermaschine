@@ -72,3 +72,8 @@ Der Bot wurde innerhalb von wenigen Stunde programmiert weil Antenne Bayern's Ak
 - Wenn sie in die erste Zeile des Programmes (manchingermaschine.py) die Phrase "#haxor" hinzufügen (wie auf dem Bild gezeigt), so wird das Programm in einem anderen Modus starten, dies empfehlt sich jedoch nur falls sie Startschwierigkeiten haben, der Modus funktioniert jedoch selbst bei mir nicht deswegen ist er eher unnötig
 
 ![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/haxor.png?raw=true)
+
+## Technische Hinweise
+- Der Bot benutzt [libcurl](https://curl.se/libcurl/) um Dateien herunterzuladen und [pip](https://pypi.org/project/pip/) um Python Abhängigkeiten zu installieren
+- Der Bot lädt sich z.B. Mozilla Firefox sowie den Python Installer von offiziellen Servern runter, ich habe keine dieser Installer manipuliert oder bei mir hochgeladen, der Installer lädt um an z.B. den Firefox Installer zu kommen einfach nur per CURL die offizielle .EXE und installiert diese
+- Der Bot selber wurde in Python programmiert, der Installer und Starter hingegen wurden in C++ programmiert
