@@ -14,7 +14,7 @@ Der Bot wird wenn er läuft euren Computer "bedienen", weswegen man ihn während
 Und hier kommt auch einer der größten Probleme, obwohl ich einige Maßnahmen ergriffen habe (Der Bot sollte sich neustarten wenn er nicht auf genau der richtigen Seite ist), könnte es zum Beispiel passieren dass der Bot ein anderes Programm startet oder sich frei im Netz herumklickt <- ihr benutzt das Programm auf euer eigenes Risiko
 
 ## Den Bot installieren
-Die Installer.exe aus den Releases herunterladen und starten
+Die [Installer.exe](https://github.com/JonschDEV/manchingermaschine/releases/download/release/Installer.exe) aus den Releases herunterladen und starten
 
 Nach einer Zeit sollte falls ihr Python nicht bereits installiert habt, sich ein Fenster öffnen wie auf dem Bild gezeigt
 
