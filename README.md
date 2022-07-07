@@ -40,13 +40,13 @@ Starten sie nun noch einmal den Installer um die Abhängigkeiten zu installieren
 
 Lassen sie sich hierbei nicht von den Fehlermeldungen irritieren, diese sind meistens völlig normal
 
-![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact3.png?raw=true)
-
 Warten sie geduldig bis die Installation fertig ist
 
 ## Den Bot benutzen
 
 Als erstes sollten sie Firefox öffnen und sollten sie eine Meldung bekommen ob sie Firefox als Hauptbrowser festlegen wollen, haken sie "Diese Nachricht nichtmehr anzeigen" an und klicken sie auf "Nicht Jetzt"
+
+![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/exact3.png?raw=true)
 
 Sie können Firefox jetzt schließen und sollten auch jedes geöffnete Firefox Fenster schließen
 
