@@ -64,3 +64,11 @@ könnte der Bot nicht funktionieren
 Es könnte auch sein das der Bot manche Anläufe nicht auf Anhieb schafft, bei den meisten Fehlern startet sich
 der Bot jedoch automatisch neu wodurch keine Interaktion mit dem Nutzer nötig ist
 Der Bot wurde innerhalb von wenigen Stunde programmiert weil Antenne Bayern's Aktion nurnoch wenige Tage läuft, ich habe probiert den Bot so stabil und sicher wie möglich zu machen kann aber wegen dem Zeitdruck nicht garantieren, dass der Bot fehlerfrei läuft -> Sie können davon ausgehen das der Bot manchmal mehrere Anläufe braucht oder es bei ihnen garnicht funktioniert! Es könnte z.B. auch dazu kommen das der Bot frei im Internet surft oder ihren PC anderweitig ungewollt bedient, wobei ich einige Sicherheitssysteme eingebaut haben welche das verhinden sollten könnte dieser Fall trotzdem eintreten und ich möchte nocheinmal darauf hinweisen dass sie den Bot auf eigenem Risiko benutzen
+
+## Mehr oder weniger wichtige Kleinigkeiten
+- Sie können den Bot schließen in dem sie "187" in die Zwischenablage kopieren (kein Scherz)
+- Treten sie auch gerne dem Subreddit [r/manching](https://www.reddit.com/r/manching)
+- Im Code des Bots (manchingermaschine.py) ist eine Variable namens "reboot", wenn sie diese auf 0 stellen, wird sich der Bot anstatt neuzustarten, abschalten
+- Wenn sie in die erste Zeile des Programmes (manchingermaschine.py) die Phrase "#haxor" hinzufügen (wie auf dem Bild gezeigt), so wird das Programm in einem anderen Modus starten, dies empfehlt sich jedoch nur falls sie Startschwierigkeiten haben, der Modus funktioniert jedoch selbst bei mir nicht deswegen ist er eher unnötig
+
+![alt text](https://github.com/JonschDEV/manchingermaschine/blob/main/haxor.png?raw=true)
