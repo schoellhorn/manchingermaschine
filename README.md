@@ -1,3 +1,6 @@
+> [!WARNING]
+> Dieses Repository ist schon relativ alt und funktioniert nichtmehr auf der neuesten Version des Antenne-Bayern Pausenhofkonzert-Spiels. Außerdem ist der Code dieses Programmes sehr schlecht, aber da es sich eh um ein bereits vergangenes Event handelt, sehe ich keinen Grund mehr ihn zu updaten bzw. zu verschönern.
+
 # manchingermaschine
 ## A bot to automatically vote for Manching's Realschule
 
